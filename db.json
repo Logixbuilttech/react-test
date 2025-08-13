@@ -1,0 +1,63 @@
+{
+  "launches": [
+    {
+      "name": "dsds",
+      "username": "dsds",
+      "email": "dsd@gmail.com",
+      "id": "2e66"
+    },
+    {
+      "name": "fdgf",
+      "username": "fgf",
+      "email": "dsasd@gmail.com",
+      "id": "7d12"
+    },
+    {
+      "id": "bc37",
+      "name": "1111",
+      "username": "22222",
+      "email": "33333@1111.asd"
+    },
+    {
+      "name": "33333@1111.asd",
+      "username": "33333@1111.asd",
+      "email": "33333@1111.asd",
+      "id": "25f8"
+    },
+    {
+      "id": "9a81",
+      "name": "wer",
+      "username": "ass",
+      "email": "wssx@gmail.com"
+    },
+    {
+      "id": "ce80",
+      "name": "ddd123",
+      "username": "fg",
+      "email": "dfdsfdsf@dmail.com"
+    },
+    {
+      "id": "3eea",
+      "name": "www",
+      "username": "avc",
+      "email": "www@gamil.com"
+    }
+  ],
+  "users": [
+    {
+      "id": "7f31",
+      "email": "test@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "5379",
+      "email": "demo@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "eedb",
+      "email": "hig@gmail.com",
+      "password": "hig@123"
+    }
+  ]
+}
